@@ -4,8 +4,8 @@ L’imagerie par OCT permet de détecter soit un épaississement de la rétine, 
 
 L'objectif est de développer un modèle qui permette de prédire à partir d'une imagerie par OCT :
 
-* une néovascularisation choroïdienne
-* un Œdème maculaire diabétique
-* de multiples drusen
-* une rétine normale
+- une néovascularisation choroïdienne
+- un Œdème maculaire diabétique
+- de multiples drusen
+- une rétine normale
 
